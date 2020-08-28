@@ -338,3 +338,7 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+
+# Project specific file
+/Files/Left/file.txt
+/Files/Right/file.txt
