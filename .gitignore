@@ -340,5 +340,5 @@ ASALocalRun/
 healthchecksdb
 
 # Project specific file
-/Files/Left/file.txt
-/Files/Right/file.txt
+Files/Left/file.txt
+Files/Right/file.txt
