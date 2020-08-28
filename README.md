@@ -17,6 +17,6 @@ Foi adicionado ao projeto a inteface descritiva Swagger, para testar basta execu
 A implementação de persistência dos dados por arquivo é mais do que suficiente para suportar a demanda, não sendo
 necessário implementação de camada de banco.
 
-## Implementação do Sagger
+## Implementação do Swagger
 
-Para facilitar o teste dos endpoints na implementação, o Sagger é satisfatório para esta tarefa.
+Para facilitar o teste dos endpoints na implementação, o Swagger é satisfatório para esta tarefa.
